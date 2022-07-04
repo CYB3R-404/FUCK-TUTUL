@@ -400,13 +400,13 @@ logo = ("""\033[1;32m
                                             \033
 __________________×______________________
   
-  Auther   :  Mr. RINKU
+  Auther   :  RINKU
  
   Github   :  RINKU75o
 
-  Facebook: RINKU Mr.    (50% Ok Account Open Just Now)❤️
+  Facebook: RINKU .    (80% Ok Account Open Just Now)❤️
 
-  WhatsApp: 01608843956
+  WhatsApp: 013xxxxxxxx
 __________________×______________________\033[1;37m""")
 
 class Main:
