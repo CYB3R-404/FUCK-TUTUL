@@ -402,9 +402,9 @@ __________________×______________________
   
   Auther   :  RINKU
  
-  Github   :  RINKU75o
+  Github   :  RINKU
 
-  Facebook: RINKU .    (80% Ok Account Open Just Now)❤️
+  Facebook: RINKU     (80% Ok Account Open Just Now)❤️
 
   WhatsApp: 013xxxxxxxx
 __________________×______________________\033[1;37m""")
